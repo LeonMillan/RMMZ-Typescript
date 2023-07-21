@@ -1,6 +1,6 @@
 {
-  "name": "@niokasgami/rpg-maker-mz-typescript",
-  "version": "0.1.1",
+  "name": "@leonmillan/rmmz-typescript",
+  "version": "1.0.0",
   "description": "Type definitions for the RPG Maker MZ core script",
   "main": "index.js",
   "files": [
@@ -12,14 +12,14 @@
   "types": "./lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niokasgami/Rpg-Maker-MZ-Typescript.git"
+    "url": "git+https://github.com/LeonMillan/RMMZ-Typescript.git"
   },
-  "author": "Nio Kasgami",
+  "author": "Nio Kasgami / Leonardo Millan",
   "license": "LicenseRef-LICENSE",
   "bugs": {
-    "url": "https://github.com/niokasgami/Rpg-Maker-MZ-Typescript/issues"
+    "url": "https://github.com/LeonMillan/RMMZ-Typescript/issues"
   },
-  "homepage": "https://github.com/niokasgami/Rpg-Maker-MZ-Typescript#readme",
+  "homepage": "https://github.com/LeonMillan/RMMZ-Typescript#readme",
   "dependencies": {
     "@types/pako": "^1.0.1",
     "pixi.js": "^5.3.0",

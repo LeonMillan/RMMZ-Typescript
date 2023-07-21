@@ -16,7 +16,7 @@
     "template": {
         "outputSourceFiles": true,
         "readme": "./README.md",
-        "repository": "https://github.com/niokasgami/Rpg-Maker-MZ-Typescript/"
+        "repository": "https://github.com/LeonMillan/RMMZ-Typescript/"
     },
     "templates": {
         "cleverLinks"   : false,

@@ -1,7 +1,7 @@
 ![banner](./typescript.jpg)
 
-![Node.js Package](https://github.com/niokasgami/Rpg-Maker-MZ-Typescript/workflows/Node.js%20Package/badge.svg)
-[![Docs](https://github.com/niokasgami/Rpg-Maker-MZ-Typescript/workflows/Docs/badge.svg)](https://niokasgami.github.io/Rpg-Maker-MZ-Typescript/)
+![Node.js Package](https://github.com/LeonMillan/RMMZ-Typescript/workflows/Node.js%20Package/badge.svg)
+[![Docs](https://github.com/LeonMillan/RMMZ-Typescript/workflows/Docs/badge.svg)](https://niokasgami.github.io/Rpg-Maker-MZ-Typescript/)
 
 
 # Introduction
@@ -15,7 +15,7 @@ programmer to create plugins for rpg maker MZ using Typescript.
 The project can be installed via NPM, both via the default NPM registry and the
 Github NPM Registry:
 
-    npm install rmmz@github:@niokasgami/rpg-maker-mz-typescript
+    npm install rmmz@github:@leonmillan/rmmz-typescript
 
 All types are available from the top-level module:
 
